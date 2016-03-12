@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[About Us]]></title>
-        <description><![CDATA[About Us]]></description>
+        <title><![CDATA[alp]]></title>
+        <description><![CDATA[alp]]></description>
         <link>https://thegrid.ai/assetleaders-org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 16:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 16:41:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/assetleaders-org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A.S.S.E.T. Leaders]]></title>
-            <description><![CDATA[<h1>A.S.S.E.T. Leaders</h1>]]></description>
+            <description><![CDATA[<article><h1>A.S.S.E.T. Leaders</h1><p></p></article>]]></description>
             <link>https://thegrid.ai/assetleaders-org/asset-leaders/index.html</link>
             <guid isPermaLink="false">7e405b32-0b85-411e-88bb-0a047acd70f1</guid>
-            <pubDate>Sat, 12 Mar 2016 16:29:57 GMT</pubDate>
+            <pubDate>Sat, 12 Mar 2016 16:39:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
