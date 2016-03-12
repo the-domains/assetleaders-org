@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-12T16:47:14.648Z'
-dateModified: '2016-03-12T16:46:32.265Z'
+datePublished: '2016-03-12T16:49:45.181Z'
+dateModified: '2016-03-12T16:47:16.291Z'
 title: Meeting Dr. Eric Thomas
 author: []
 sourcePath: _posts/2016-03-12-asset-leaders.md
