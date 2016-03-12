@@ -1,6 +1,6 @@
 name: assetleaders.org
 favicon: null
-layout_spectrum: 0.5071115125901997
+layout_spectrum: 0.29769
 typography_spectrum: 0.33075
 title: About Us
 cta:
@@ -24,6 +24,6 @@ color:
     - '#ffd600'
   brandStrength: 0.8063955302350223
   lightness: 0.5625
-  saturation: 0.0625
+  saturation: 0.375
   rhythmicContrast: 0.75
 purpose: []
