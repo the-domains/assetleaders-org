@@ -1,14 +1,15 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: Greatness Is Upon You Conference 2015
-datePublished: '2016-03-12T17:05:12.013Z'
-dateModified: '2016-03-12T17:02:37.277Z'
-title: Meeting Dr. Eric Thomas
+description: "We bridge the gap between a student's home, classroom, and athletic life by developing an effective communication process."
+datePublished: '2016-03-12T17:06:37.208Z'
+dateModified: '2016-03-12T17:06:16.403Z'
+title: A.S.S.E.T. Leaders
 author: []
 sourcePath: _posts/2016-03-12-asset-leaders.md
 published: true
@@ -18,11 +19,10 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: asset-leaders/index.html
-_type: Article
+_type: Blurb
 
 ---
-# Meeting Dr. Eric Thomas
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ede282e1-060c-436f-b4bc-fad1a249ed7c.jpg)
+# A.S.S.E.T. Leaders
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bc23c4c-fceb-44dd-ac32-f9ba58c5c520.png)
 
-I had the honor of meeting E.T. at his conference last May in Houston, Texas. It was an incredible experience, and one I truly treasure.
+We bridge the gap between a student's home, classroom, and athletic life by developing an effective communication process.
