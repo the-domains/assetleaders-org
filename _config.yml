@@ -22,7 +22,7 @@ color:
     - '#fd6500'
     - '#ffd600'
   brandStrength: 0.8063955302350223
-  lightness: 0.11745816376060247
-  saturation: 0.7894560538697988
-  rhythmicContrast: 0.7070905044674873
+  lightness: 0.5625
+  saturation: 0.0625
+  rhythmicContrast: 0.75
 purpose: []
