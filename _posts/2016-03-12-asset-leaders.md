@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Greatness Is Upon You Conference 2015
-datePublished: '2016-03-12T17:02:27.789Z'
-dateModified: '2016-03-12T17:02:04.722Z'
+datePublished: '2016-03-12T17:05:12.013Z'
+dateModified: '2016-03-12T17:02:37.277Z'
 title: Meeting Dr. Eric Thomas
 author: []
 sourcePath: _posts/2016-03-12-asset-leaders.md
