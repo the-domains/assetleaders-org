@@ -1,7 +1,7 @@
 name: assetleaders.org
 favicon: null
 layout_spectrum: 0.5071115125901997
-typography_spectrum: 0.2324945128057152
+typography_spectrum: 0.33075
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#0082cf'
+    - '#000000'
+    - '#ffffff'
+    - '#fd6500'
+    - '#ffd600'
   brandStrength: 0.8063955302350223
   lightness: 0.11745816376060247
   saturation: 0.7894560538697988
