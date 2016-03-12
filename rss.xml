@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[About Us]]></title>
         <description><![CDATA[About Us]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/assetleaders-org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 16:26:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 16:30:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/assetleaders-org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A.S.S.E.T. Leaders]]></title>
             <description><![CDATA[<h1>A.S.S.E.T. Leaders</h1>]]></description>
-            <link>undefinedasset-leaders/index.html</link>
+            <link>https://thegrid.ai/assetleaders-org/asset-leaders/index.html</link>
             <guid isPermaLink="false">7e405b32-0b85-411e-88bb-0a047acd70f1</guid>
-            <pubDate>Sat, 12 Mar 2016 16:26:40 GMT</pubDate>
+            <pubDate>Sat, 12 Mar 2016 16:29:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
