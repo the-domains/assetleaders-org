@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "We bridge the gap between a student's home, classroom, and athletic life by developing an effective communication process."
-datePublished: '2016-03-12T16:50:05.302Z'
-dateModified: '2016-03-12T16:45:57.220Z'
-title: A.S.S.E.T. Leaders
+description: Greatness Is Upon You Conference 2015
+datePublished: '2016-03-12T16:58:02.526Z'
+dateModified: '2016-03-12T16:57:52.926Z'
+title: Meeting Dr. Eric Thomas
 author: []
 sourcePath: _posts/2016-03-12-asset-leaders.md
 published: true
@@ -22,6 +22,7 @@ url: asset-leaders/index.html
 _type: Article
 
 ---
-# A.S.S.E.T. Leaders
+# Meeting Dr. Eric Thomas
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ede282e1-060c-436f-b4bc-fad1a249ed7c.jpg)
 
-We bridge the gap between a student's home, classroom, and athletic life by developing an effective communication process.
+I had the honor of meeting E.T. at his conference last May in Houston, Texas. It was an incredible experience, and one I truly treasure.
